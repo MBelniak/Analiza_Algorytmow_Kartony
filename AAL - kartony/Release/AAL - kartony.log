@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(71): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(98): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(129): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  All 530 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  AAL - kartony.vcxproj -> C:\Users\rubik\source\repos\AAL - kartony\Release\AAL - kartony.exe

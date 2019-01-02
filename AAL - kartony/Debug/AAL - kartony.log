@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(43): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(46): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(49): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(127): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(131): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(171): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(183): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(195): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(208): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(241): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\rubik\source\repos\aal - kartony\aal - kartony\matrioshkapacking.h(215): warning C4715: "MPacking::findChildIndex”: niewszystkie ścieżki kodu zwracają wartość
+  AAL - kartony.vcxproj -> C:\Users\rubik\source\repos\AAL - kartony\Debug\AAL - kartony.exe
